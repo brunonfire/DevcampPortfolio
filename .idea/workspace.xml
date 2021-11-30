@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b876dbac-f010-4628-a400-593d4e131796" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/portfolios/show.html.erb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/portfolios_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/portfolios_controller.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/portfolios/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/portfolios/index.html.erb" afterDir="false" />
@@ -168,7 +167,7 @@
       <workItem from="1637922151052" duration="536000" />
       <workItem from="1637925215332" duration="6670000" />
       <workItem from="1638185358744" duration="3166000" />
-      <workItem from="1638271727935" duration="2782000" />
+      <workItem from="1638271727935" duration="4102000" />
     </task>
     <servers />
   </component>
