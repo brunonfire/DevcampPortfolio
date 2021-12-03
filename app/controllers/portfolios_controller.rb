@@ -56,7 +56,7 @@ class PortfoliosController < ApplicationController
       format.json { head :no_content }
       end
   end
-  
+
   def portfolio_params
     params.require(:portfolio).permit(:title, :subtitle, :body, :main_image, :thumb_image)
   end
