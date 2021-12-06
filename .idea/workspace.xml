@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b876dbac-f010-4628-a400-593d4e131796" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/config/initializers/friendly_id.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20211203131432_create_friendly_id_slugs.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20211206101243_add_slug_to_blogs.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/migrate/20211206114349_add_post_status_to_blogs.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/blogs_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/blog.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/blog.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +178,9 @@
       <workItem from="1638522664815" duration="1468000" />
       <workItem from="1638530943875" duration="4073000" />
       <workItem from="1638536417808" duration="3447000" />
-      <workItem from="1638785412658" duration="1401000" />
+      <workItem from="1638785412658" duration="1604000" />
+      <workItem from="1638789465521" duration="215000" />
+      <workItem from="1638789759981" duration="684000" />
     </task>
     <servers />
   </component>
